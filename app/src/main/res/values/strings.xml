@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Mnimi</string>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_play">Play</string>
+    <string name="title_themes">Themes</string>
+    <string name="card">Card 1</string>
 </resources>
